@@ -111,7 +111,7 @@ Output:
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/1c93c6dc-150f-48a3-919c-092b7f1ec841" />
 
 
-![Exp_4_Output_drawing_page-0001](https://github.com/user-attachments/assets/67e893aa-c75d-4ccd-b2fd-31f06da9300e)
+![EXP_4 Drawing_page-0001](https://github.com/user-attachments/assets/23acfa7c-dc3d-43e2-a3b4-3dd16f4d5cbe)
 
 
 ## RESULT: 
